@@ -1,0 +1,45 @@
+AIzaSyCZddgO8XNrp0thxwb2GfmHFjdwPQXhhW0
+
+PullTest1002
+timothy.thelen@gmail.com
+[default]
+
+thelent2
+thelent2@michigan.gov
+[default-work]
+
+
+https://github.com/thelent2/test2
+
+to get it to work 
+1. i forked from the web site to my Repo (using the "fork" button)
+2. then cloned it locally (command line "git clone https://github.com/blahblah/reponame" from one dir up)
+3. then opened in VSCode and made sure it noted my changes
+4. commited like normal
+5. and then used the "..." to publish/sync with my online repo
+6. from there you can go to the real repo https://github.com/blahblah/reponame and click new pull request which brings in your changes from your repo/fork
+
+note every commit shows up
+
+
+time off...
+jan 26th 10hr
+jan 20th 10hr
+Feb 06th 10hr
+Feb 13th 10hr
+Feb 20th 02hr
+Feb 21st 10hr
+mar 15th 10hr
+mar 16th 10hr
+mar 20th 10hr
+mar 21st 10hr
+may 29th 02hr
+may 30th 10hr
+may 31st 10hr
+may 01st 10hr
+
+124hr by may
++45hr by may (9 * 5 = 45)
+=============
+
+

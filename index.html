@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    
+    <meta charset="utf-8">
+    <title>title</title>    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.21.1/babel.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/react/15.4.2/react.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/react/15.4.2/react-dom.js"></script>    
+    
+     <style>
+      /* Always set the map height explicitly to define the size of the div
+       * element that contains the map. */
+      #map {
+        height: 50%;
+        width: 49%;
+      }
+       #map2 {
+        height: 50%;
+        width: 49%;
+      }
+      /* Optional: Makes the sample page fill the window. */
+      html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+    </style>
+  </head>
+  <body>
+      <div id="map"></div>      
+      <script src="mapSamples/circles.js" ></script>
+      <script src="mapSamples/basic.js" ></script>
+      <script src="mapSamples/chooser.js" ></script>
+      <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCZddgO8XNrp0thxwb2GfmHFjdwPQXhhW0&callback=initMap"  type="text/javascript"></script>
+      
+
+  <select id="mapType" onchange="initMap()">
+    <option selected="selected" value="def">default</option>
+    <option  value="cir">circles</option>
+    </select>
+  
+
+    <h4>test</h4>
+    <!-- page content -->
+  </body>
+</html>
